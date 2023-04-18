@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\bin\Debug\gladeatorialСombat.exe.config
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\bin\Debug\gladeatorialСombat.exe
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\bin\Debug\gladeatorialСombat.pdb
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\obj\Debug\gladeatorialСombat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\obj\Debug\gladeatorialСombat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\obj\Debug\gladeatorialСombat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\obj\Debug\gladeatorialСombat.exe
+C:\Users\Admin\source\repos\обучение\gladeatorialСombat\obj\Debug\gladeatorialСombat.pdb

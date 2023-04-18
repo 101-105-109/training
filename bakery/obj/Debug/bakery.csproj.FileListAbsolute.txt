@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\обучение\bakery\bin\Debug\bakery.exe.config
+C:\Users\Admin\source\repos\обучение\bakery\bin\Debug\bakery.exe
+C:\Users\Admin\source\repos\обучение\bakery\bin\Debug\bakery.pdb
+C:\Users\Admin\source\repos\обучение\bakery\obj\Debug\bakery.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\обучение\bakery\obj\Debug\bakery.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\обучение\bakery\obj\Debug\bakery.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\обучение\bakery\obj\Debug\bakery.exe
+C:\Users\Admin\source\repos\обучение\bakery\obj\Debug\bakery.pdb

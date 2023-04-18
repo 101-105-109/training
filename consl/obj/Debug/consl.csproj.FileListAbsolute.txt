@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\обучение\consl\bin\Debug\consl.exe.config
+C:\Users\Admin\source\repos\обучение\consl\bin\Debug\consl.exe
+C:\Users\Admin\source\repos\обучение\consl\bin\Debug\consl.pdb
+C:\Users\Admin\source\repos\обучение\consl\obj\Debug\consl.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\обучение\consl\obj\Debug\consl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\обучение\consl\obj\Debug\consl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\обучение\consl\obj\Debug\consl.exe
+C:\Users\Admin\source\repos\обучение\consl\obj\Debug\consl.pdb
