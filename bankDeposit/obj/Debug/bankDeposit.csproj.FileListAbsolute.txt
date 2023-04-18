@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\обучение\bankDeposit\bin\Debug\bankDeposit.exe.config
+C:\Users\Admin\source\repos\обучение\bankDeposit\bin\Debug\bankDeposit.exe
+C:\Users\Admin\source\repos\обучение\bankDeposit\bin\Debug\bankDeposit.pdb
+C:\Users\Admin\source\repos\обучение\bankDeposit\obj\Debug\bankDeposit.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\обучение\bankDeposit\obj\Debug\bankDeposit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\обучение\bankDeposit\obj\Debug\bankDeposit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\обучение\bankDeposit\obj\Debug\bankDeposit.exe
+C:\Users\Admin\source\repos\обучение\bankDeposit\obj\Debug\bankDeposit.pdb

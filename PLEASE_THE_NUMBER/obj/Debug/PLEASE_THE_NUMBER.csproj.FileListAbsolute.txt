@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\bin\Debug\PLEASE_THE_NUMBER.exe.config
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\bin\Debug\PLEASE_THE_NUMBER.exe
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\bin\Debug\PLEASE_THE_NUMBER.pdb
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\obj\Debug\PLEASE_THE_NUMBER.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\obj\Debug\PLEASE_THE_NUMBER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\obj\Debug\PLEASE_THE_NUMBER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\obj\Debug\PLEASE_THE_NUMBER.exe
+C:\Users\Admin\source\repos\обучение\PLEASE_THE_NUMBER\obj\Debug\PLEASE_THE_NUMBER.pdb
