@@ -1,0 +1,8 @@
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\bin\Debug\planeFlight.exe.config
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\bin\Debug\planeFlight.exe
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\bin\Debug\planeFlight.pdb
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\obj\Debug\planeFlight.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\obj\Debug\planeFlight.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\obj\Debug\planeFlight.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\obj\Debug\planeFlight.exe
+C:\Users\Кирилл\Desktop\COD PROF\planeFlight\planeFlight\obj\Debug\planeFlight.pdb
