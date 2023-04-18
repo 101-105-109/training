@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,8 +34,10 @@ namespace planeFlight
                         Console.Write("ряд:");
                         rid = Convert.ToInt32(Console.ReadLine())-1;
 
-                        if (rid > samalet.Length || rid < 0)
+                        if (rid >= samalet.Length || rid < 0)
                         {
+                            Console.BackgroundColor = ConsoleColor.White;
+                            Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("такого ряда нет");
                             break;
                         }
@@ -45,13 +47,17 @@ namespace planeFlight
 
                         if (kolMest > samalet[rid])
                         {
+                            Console.BackgroundColor = ConsoleColor.White;
+                            Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine($"мест меньше. свободно {samalet[rid]} мест");
                             break;
                         }  
 
                         if (kolMest < 0)
                         {
-                            Console.WriteLine($"мест больше. свободно {samalet[rid]} мест");
+                            Console.BackgroundColor = ConsoleColor.White;
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("количество мест не может быть менше нудя");
                             break;
                         }
 
@@ -66,10 +72,12 @@ namespace planeFlight
                         break;
 
                     default:
+                        Console.BackgroundColor = ConsoleColor.White;
+                        Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("не ясная команда");
                         break;
                 }
-
+                Console.ResetColor();
                 Console.ReadKey();
                 Console.Clear();
             }
