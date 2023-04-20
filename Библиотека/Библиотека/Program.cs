@@ -68,7 +68,7 @@ namespace Library
                             break;
                         }
                         Console.Write("\nвведите номер сталбца:");
-                        i1 = Convert.ToInt32(Console.ReadLine()) - 1;
+                        j1 = Convert.ToInt32(Console.ReadLine()) - 1;
                         if (j1 > name.GetLength(1))
                         {
                             Console.WriteLine($"не коректное количество столбцев. В библеотеке всего {name.GetLength(1)} столбцев");
@@ -89,7 +89,7 @@ namespace Library
                             {
                                 if (name[i,j].ToLower() == name1.ToLower())
                                 {
-                                    Console.WriteLine($"намер строка:{j + 1} номер столбца:{i + 1}");
+                                    Console.WriteLine($"намер строка:{i + 1} номер столбца:{j + 1}");
                                     yes = true;
                                     break;
                                 }
