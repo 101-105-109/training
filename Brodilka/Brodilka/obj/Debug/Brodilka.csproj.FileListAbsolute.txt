@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Brodilka\Brodilka\bin\Debug\Brodilka.exe.config
+C:\Users\Admin\source\repos\Brodilka\Brodilka\bin\Debug\Brodilka.exe
+C:\Users\Admin\source\repos\Brodilka\Brodilka\bin\Debug\Brodilka.pdb
+C:\Users\Admin\source\repos\Brodilka\Brodilka\obj\Debug\Brodilka.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Brodilka\Brodilka\obj\Debug\Brodilka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Brodilka\Brodilka\obj\Debug\Brodilka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Brodilka\Brodilka\obj\Debug\Brodilka.exe
+C:\Users\Admin\source\repos\Brodilka\Brodilka\obj\Debug\Brodilka.pdb
