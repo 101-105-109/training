@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\обучение\function\bin\Debug\function.exe.config
+C:\Users\Admin\source\repos\обучение\function\bin\Debug\function.exe
+C:\Users\Admin\source\repos\обучение\function\bin\Debug\function.pdb
+C:\Users\Admin\source\repos\обучение\function\obj\Debug\function.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\обучение\function\obj\Debug\function.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\обучение\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\обучение\function\obj\Debug\function.exe
+C:\Users\Admin\source\repos\обучение\function\obj\Debug\function.pdb
