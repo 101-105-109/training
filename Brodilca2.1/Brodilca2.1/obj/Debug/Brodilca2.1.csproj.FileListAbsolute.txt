@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\bin\Debug\Brodilca2.1.exe.config
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\bin\Debug\Brodilca2.1.exe
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\bin\Debug\Brodilca2.1.pdb
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\obj\Debug\Brodilca2.1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\obj\Debug\Brodilca2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\obj\Debug\Brodilca2.1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\obj\Debug\Brodilca2.1.exe
+C:\Users\Admin\Desktop\проекты\Brodilca2.1\Brodilca2.1\obj\Debug\Brodilca2.1.pdb
